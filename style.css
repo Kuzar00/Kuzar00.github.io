@@ -2,7 +2,7 @@ body {
     font-family: helvetica, arial, sans-serif;
     margin: 2em;
     color: #3D3D3D;
-    background: "bg.jpg"
+    background-image: url('bg.jpg');
   }
   
   h1 {
